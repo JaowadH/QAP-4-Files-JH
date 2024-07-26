@@ -1,3 +1,9 @@
+#Descrptions: One Stop Insurance Company needs a program to enter and calculate new insurance 
+#             policy information for its customers.
+#Author:      Jaowad Hossain
+#Dates:       July 26, 2024
+
+# Define required libraries.
 import csv
 import time
 from datetime import datetime, timedelta
